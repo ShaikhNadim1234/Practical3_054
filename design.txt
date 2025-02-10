@@ -1,1 +1,1 @@
-"Design Version 1" 
+"Design Version 2: Added more details" 
